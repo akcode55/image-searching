@@ -34,7 +34,7 @@ form {
 
 #search-button {
   padding: 10px 20px;
-  background-color: gray;
+  background-color: #00BFFF; /* لون أزرق سماوي */
   color: rgb(255, 255, 255);
   border: none;
   font-size: 18px;
@@ -45,7 +45,7 @@ form {
 }
 
 #search-button:hover {
-  background-color: #d1e0d1;
+ background-color: #87CEFA;
 }
 
 .search-results {
